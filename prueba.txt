@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" 
+                  xmlns:afil="http://ADE/AfiliarComercio.tws" 
+                  xmlns:sch="http://lombardi.ibm.com/schema/"> 
+   <soapenv:Header/>
+   <soapenv:Body>
+      <afil:afiliarComercio>
+         <afil:solicitudRadicado>11684005</afil:solicitudRadicado>
+      </afil:afiliarComercio>
+   </soapenv:Body>
+</soapenv:Envelope>
