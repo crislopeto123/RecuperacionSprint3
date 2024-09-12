@@ -13,3 +13,6 @@
 
 
 https://172.27.1.134/teamworks/webservices/ADE/AfiliarComercio.tws
+
+
+D:\RPA_Comercios y terminales\Input\CargaXml
