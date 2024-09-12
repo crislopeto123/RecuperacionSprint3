@@ -9,3 +9,7 @@
       </afil:afiliarComercio>
    </soapenv:Body>
 </soapenv:Envelope>
+
+
+
+https://172.27.1.134/teamworks/webservices/ADE/AfiliarComercio.tws
